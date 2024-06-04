@@ -1,0 +1,10 @@
+:root {
+    --tw-gradient-from: #9cd6a0;
+    --tw-gradient-to: #d9d9d9;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+}
+
+.dark {
+    --tw-gradient-from: #66686b;
+    --tw-gradient-to: #302f2f;
+}
